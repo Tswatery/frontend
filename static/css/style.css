@@ -1,0 +1,14 @@
+img {
+    width: 300px;
+    display: block;
+    margin: auto;/*两个都要*/
+    border-radius: 50%;
+}
+p {
+    width: 50px;
+    height: 50px;
+    background-color:aqua;
+}
+.blue-p {
+    background-color: brown; /*可见有继承的关系？ */
+}
